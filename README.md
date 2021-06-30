@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sibusiso Nkosi
+<h1 align="center">Hi there 👋, I'm Sibusiso Nkosi</h1>
 
 <!--
 **sbuDiction/sbuDiction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
