@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a passionate full-stack web developer and a creator</h3>
 
 - 🌱 I’m currently learning **React Js, React Native, Socket.io, TypeScript**
+- 📫 How to reach me: **sbdiction@gmail.com**
+- 🔭 I’m currently working on a pet project to better understand **React and Socket.io**
+
 
 [![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbuDiction&langs_count=5)](https://wakatime.com/@sbuDiction)
