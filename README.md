@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a pet project to better understand **React and Socket.io**
 
 
-[![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbuDiction&langs_count=5)](https://wakatime.com/@sbuDiction)
+<!-- [![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbuDiction&langs_count=5)](https://wakatime.com/@sbuDiction) -->
