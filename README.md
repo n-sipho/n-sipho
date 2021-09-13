@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a passionate full-stack web developer and a creator</h3>
 
 - 🌱 I’m currently learning **React Js, React Native, Socket.io, TypeScript**
-- 📫 How to reach me: **sbdiction@gmail.com**
+- 📫 How to reach me: **sbudiction@gmail.com**
 - 🔭 I’m currently working on a pet project to better understand **React and Socket.io**
 
 
