@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sibusiso Nkosi</h1>
 
-<h3 align="center">[![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)</h3>
+   [![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)
 
 <!--
 **sbuDiction/sbuDiction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
