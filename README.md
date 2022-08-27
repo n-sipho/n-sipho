@@ -1,27 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Sibusiso Nkosi</h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sibusiso-nkosi-9a7018223">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-   [![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)
+<img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
 
-<!--
-**sbuDiction/sbuDiction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1>Ayo! 😎, I'm S'busiso</h1>
 
-Here are some ideas to get you started:
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a full stack developer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30"> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 
-<!-- <h3 align="center">I'm a passionate full-stack web developer and a creator</h3> -->
+ [![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)
 
-<!-- - 🌱 I’m currently learning **React Js, React Native, Socket.io, TypeScript**
-- 📫 How to reach me: **sbudiction@gmail.com**
-- 🔭 I’m currently working on a pet project to better understand **React and Socket.io**
+![Tarcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbuDiction&theme=vision-friendly-dark&show_icons=true)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbuDiction&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
-<!-- [![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbuDiction&langs_count=5)](https://wakatime.com/@sbuDiction) -->
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbuDiction&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
