@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
 
 <div align="center">
-<h1>Ayo! 😎, I'm S'busiso</h1>
+<h1>Ayo! 😎, I'm Sbu</h1>
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a full stack developer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30"> 
 </div>
