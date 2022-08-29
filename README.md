@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
 
 <div align="center">
-<h1>Ayo! <img src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" width="30">, I'm Sbu</h1>
+<h1>Ayo! <img src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" width="30">, I'm Sbu!</h1>
 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a full stack developer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30">  working as a freelancer <img src="https://media.giphy.com/media/Kc1tJDZ3Q4d2pfalIG/giphy.gif" width="50">
