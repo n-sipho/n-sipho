@@ -9,26 +9,32 @@
 
 <div align="center">
 
-<h1>Ayo! <img src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" width="30">, I'm Sbu!</h1>
+<h1>Ayo!, I'm Sbu</h1>
 
-<h3 align="center">Sibusiso Nkosi. ⚡ Aspiring Full-Stack & Creative Web Developer</h3>
+<h3 align="center">Self-taught full stack developer</h3>
 
 </div>
 
 <div align="center">
-
-
-
-<p align="center">
-   <img src="https://img.shields.io/badge/Node.Js-%2320232a?style=for-the-badge&logo=node.js&logoColor=white" height="25" />
-   <img src="https://img.shields.io/badge/Javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white" height="25" />
-   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
-   <img src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript&logoColor=007ACC" height="25"/>
-   <img src="https://img.shields.io/badge/CSS3-%2320232a?style=for-the-badge&logo=css3&logoColor=38B2AC"  height="25"/>
-   <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
-   <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=#EA7300" height="25"/>
-
-</p>
+  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
  <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=sbuDiction&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
