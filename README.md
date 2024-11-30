@@ -37,13 +37,13 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
  <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=sbuDiction&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbuDiction&theme=tokyonight&layout=compact&hide_border=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=n-sipho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-sipho&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbuDiction&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-sipho&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 </div>
