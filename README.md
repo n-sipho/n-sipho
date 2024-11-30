@@ -9,8 +9,6 @@
 
 <div align="center">
 
-<h1>Ayo!, I'm Sbu</h1>
-
 <h3 align="center">Self-taught full stack developer</h3>
 
 </div>
