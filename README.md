@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
 
-<h1>Hi, I'm Siphosenkosi</h1>
+<h1 align="center">Hi, I'm Siphosenkosi</h1>
 
 <div align="center">
 
