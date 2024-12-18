@@ -42,7 +42,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/5f84a623-b83b-43bd-b289-77919eeab091.svg)](https://wakatime.com/@5f84a623-b83b-43bd-b289-77919eeab091)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-sipho&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?n-sipho=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
